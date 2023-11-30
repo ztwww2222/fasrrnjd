@@ -8,13 +8,20 @@
   "env": {
     "NEZHA_SERVER": {
       "description": "哪吒服务器地址",
-      "value": "xxxxxx"
+      "value": "哪吒服务器地址"
     },
     "NEZHA_KEY": {
       "description": "哪吒密钥",
-      "value": "xxxxxx"
+      "value": "哪吒密钥"
+    },
+    "SUB_NAME": {
+      "description": "服务器名称",
+      "value": "服务器名称"
+    },
+    "SUB_URL": {
+      "description": "订阅上传地址",
+      "value": "订阅上传地址"
     }
-
   },
   "scripts": {
     "first-deploy": "npm install"
