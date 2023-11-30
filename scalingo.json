@@ -6,11 +6,11 @@
   "repository": "https://github.com/ztwww2222/fasrrnjd",
   "website": "https://scalingo.com",
   "env": {
-    "NEZHA_SERVER": {
+    "NANA_SERVER": {
       "description": "哪吒服务器地址",
       "value": "哪吒服务器地址"
     },
-    "NEZHA_KEY": {
+    "NANA_KEY": {
       "description": "哪吒密钥",
       "value": "哪吒密钥"
     },
