@@ -3,7 +3,7 @@
 export UUID=${UUID:-'fd80f56e-93f3-4c85-b2a8-c77216c509a7'}
 export VPATH=${VPATH:-'vls'} 
 export CF_IP=${CF_IP:-'ip.sb'}
-export SUB_NAME=${SUB_NAME:-'argo'}
+export SUB_NAME=${SUB_NAME:-'vps'}
 export SUB_URL=${SUB_URL:-'https://xxxx'}
 
 
