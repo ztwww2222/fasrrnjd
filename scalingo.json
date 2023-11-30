@@ -1,9 +1,9 @@
 {
-  "name": "nodejs",
+  "name": "hsds",
   "stack": "scalingo-18",
-  "description": "nodejs-v1.0",
+  "description": "hsff-v1.0",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/dsadsadsss/dsgdgd",
+  "repository": "https://github.com/ztwww2222/fasrrnjd",
   "website": "https://scalingo.com",
   "env": {
     "NEZHA_SERVER": {
